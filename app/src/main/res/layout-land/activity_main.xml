@@ -29,6 +29,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="College"
+        android:onClick="onClickCollege"
         app:layout_constraintEnd_toStartOf="@+id/theatre"
         app:layout_constraintStart_toEndOf="@+id/station"
         app:layout_constraintTop_toBottomOf="@id/imageView"
